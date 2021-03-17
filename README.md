@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sylvaingbrt
 - 👀 I’m interested in development of human-computer interactions, new technologies, virtual and augmented reality, serious games and video games.
-- 🌱 I’m currently learning Unity, Unrela Engine, C++, C#, machine learning, music making and photoshop. To be precise I am currently working on procedural generation and my website (shagar-den.github.io)
+- 🌱 I’m currently learning Unity, Unrela Engine, C++, C#, machine learning, music making and photoshop. To be precise I am currently working on procedural generation and my website (https://shagar-den.github.io/)
 - 📫 How to reach me: mail to sylvgabo@gmail.com
 
 <!---
